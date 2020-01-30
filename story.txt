@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-A long time ago, in a galaxy far, far away ...hello and chewy
-=======
-A long time ago, in a galaxy far, far away ...hello and chewy
->>>>>>> chewy
+A long time ago, in a galaxy far, far away ...hello and chewbacca
+
